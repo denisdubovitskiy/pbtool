@@ -18,6 +18,9 @@ build:
         options:
           - paths=source_relative
 
+      - name: openapiv2
+        path: bin/protoc-gen-go-grpc
+
 rules:
   - prefix: google/api
     repo: googleapis/googleapis

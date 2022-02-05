@@ -1,6 +1,7 @@
 /bin
 /zzz_*
 /proto/api/*.go
+/proto/api/*.json
 /.vscode
 /.idea
 /vendor
