@@ -1,0 +1,7 @@
+/bin
+/zzz_*
+/proto/api/*.go
+/.vscode
+/.idea
+/vendor
+.DS_Store
